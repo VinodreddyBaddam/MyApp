@@ -7,6 +7,7 @@ import android.widget.Button;
 public class MainActivity extends AppCompatActivity {
 
     Button button;
+    EditText editText;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
